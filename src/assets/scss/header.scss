@@ -1,0 +1,11 @@
+@import './variabels';
+
+
+.header{
+    background: $primaryColor;
+    
+    &__container {
+        margin: 0 104px;
+        padding: 20px 0 100px 0;
+    }
+}
